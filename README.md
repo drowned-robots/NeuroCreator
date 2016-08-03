@@ -1,2 +1,1 @@
-# TSK_Network
 # NeuroCreator
